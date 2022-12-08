@@ -203,8 +203,7 @@ main.o: /usr/local/include/ode_robots/color.h
 main.o: /usr/local/include/ode_robots/physicalsensor.h
 main.o: /usr/local/include/ode_robots/relativepositionsensor.h
 main.o: /usr/local/include/ode_robots/amosiisensormotordefinition.h
-main.o: /usr/local/include/ode_robots/axisorientationsensor.h
-main.o: Task2_CPG_VRN_control_solution.h
+main.o: /usr/local/include/ode_robots/axisorientationsensor.h Test_VRN.h
 main.o: /usr/local/include/selforg/controller_misc.h
 main.o: /usr/local/include/ode_robots/joint.h
 main.o: /usr/local/include/ode_robots/axis.h

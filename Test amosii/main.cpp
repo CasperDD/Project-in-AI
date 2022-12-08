@@ -34,8 +34,9 @@
 #include <ode_robots/amosII.h>
 
 // include the controller
+#include "Test_VRN.h"
 // #include "Task2_CPG_VRN_control_solution.h"
- #include "Testing.h"
+// #include "Testing.h"
 // #include "Task1_CPG_control_solution.h"
 //#include "Task4_CPG_VRN_MRC_ICO_control_solution.h"
 

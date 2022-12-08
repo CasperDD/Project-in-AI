@@ -1,0 +1,21 @@
+#C t x y z
+# Recorded every 60th time step
+# [AmosII, AMOSII 0.1][1172918293]
+#  coxaDamp=               0.000000  
+#  coxaMaxVel=            10.473127  
+#  coxaPower=             26.754545  
+#  fcoxaJointLimitB=       1.221730  
+#  fcoxaJointLimitF=      -1.221730  
+#  mcoxaJointLimitB=       1.047198  
+#  mcoxaJointLimitF=      -1.047198  
+#  rcoxaJointLimitB=       1.221730  
+#  rcoxaJointLimitF=      -1.221730  
+#  secondJointLimitD=      1.308997  
+#  secondJointLimitU=     -1.308997  
+#  secondPower=           26.754545  
+# ######
+# [, $Id: tripodgait18dof.cpp,v 0.1 $][796876347]
+# ######
+6.000000 -0.0600003 2.15843e-07 0.590782
+12.000000 -0.0599997 2.33732e-07 0.590782
+18.000000 -0.06 -2.98088e-07 0.590783
