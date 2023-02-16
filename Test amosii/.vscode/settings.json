@@ -47,7 +47,21 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "cinttypes": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "mixinvector": "cpp",
+        "fast_back_stack": "cpp",
+        "vec3f": "cpp",
+        "math": "cpp",
+        "animationpath": "cpp",
+        "light": "cpp",
+        "matrix": "cpp",
+        "referenced": "cpp",
+        "matrixd": "cpp",
+        "textbase": "cpp",
+        "renderstage": "cpp",
+        "texenv": "cpp",
+        "streamoperator": "c"
     },
-    "C_Cpp.dimInactiveRegions": false
+    "C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.errorSquiggles": "disabled"
 }
